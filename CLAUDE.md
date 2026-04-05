@@ -20,7 +20,7 @@ RSSI 처리 방식(Raw / 이동평균 / 변화량 / 변동성 / 환경보정)에
 ## 프로젝트 구조
 
 ```
-wsn4crop_project/
+RSSI_LAI/
 ├── CLAUDE.md
 ├── .claude/
 │   └── settings.json          ← hooks 설정
@@ -33,7 +33,7 @@ wsn4crop_project/
 └── scripts/                    ← 분석 코드
 ```
 
-모든 스크립트 경로 기준: **`Path(__file__).parent.parent`** (= wsn4crop_project/)
+모든 스크립트 경로 기준: **`Path(__file__).parent.parent`** (= RSSI_LAI/)
 
 ---
 
