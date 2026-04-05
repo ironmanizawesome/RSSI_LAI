@@ -1,0 +1,15 @@
+trying to reset 3 @ 2016-05-14_08-40-32
+reset 3 FAILED @ 2016-05-14_08-40-33 -> reboot PI
+>2 motes down -> reset_all @ 2016-05-14_09-20-02
+reset_all DONE @ 2016-05-14_09-20-10
+trying to reset  @ 2016-05-14_13-40-31
+unknown mote: id  @ 2016-05-14_13-40-32
+reset  DONE @ 2016-05-14_13-40-32
+>2 motes down -> reset_all @ 2016-05-14_14-20-01
+reset_all DONE @ 2016-05-14_14-20-09
+>2 motes down -> reset_all @ 2016-05-14_14-40-01
+reset_all DONE @ 2016-05-14_14-40-08
+trying to reset 8 @ 2016-05-14_21-20-32
+reset 8 FAILED @ 2016-05-14_21-21-05 -> reboot PI
+trying to reset 8 @ 2016-05-14_21-41-31
+reset 8 DONE @ 2016-05-14_21-41-33

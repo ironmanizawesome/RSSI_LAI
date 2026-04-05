@@ -1,0 +1,2 @@
+>2 motes down -> reset_all @ 2016-05-09_07-50-02
+reset_all DONE @ 2016-05-09_07-50-11

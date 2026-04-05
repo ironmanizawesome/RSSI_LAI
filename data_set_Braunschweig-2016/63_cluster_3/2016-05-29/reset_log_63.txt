@@ -1,0 +1,42 @@
+trying to reset  @ 2016-05-29_08-10-32
+unknown mote: id  @ 2016-05-29_08-10-32
+reset  DONE @ 2016-05-29_08-10-32
+trying to reset  @ 2016-05-29_08-30-32
+unknown mote: id  @ 2016-05-29_08-30-33
+reset  DONE @ 2016-05-29_08-30-33
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_08-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_09-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_09-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_09-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_10-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_10-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_10-50-02
+trying to reset 11 @ 2016-05-29_11-50-32
+reset 11 DONE @ 2016-05-29_11-50-35
+trying to reset  @ 2016-05-29_12-10-32
+unknown mote: id  @ 2016-05-29_12-10-33
+reset  DONE @ 2016-05-29_12-10-33
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_12-30-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_12-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_13-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_13-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_13-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_14-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_14-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_14-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_15-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_15-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_15-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_16-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_16-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_16-50-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_17-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_17-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_17-50-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_18-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_18-30-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_18-50-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_19-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_19-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_19-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-29_20-10-02

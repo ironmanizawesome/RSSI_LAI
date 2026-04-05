@@ -1,0 +1,1 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-21_03-30-02

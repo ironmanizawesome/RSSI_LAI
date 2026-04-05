@@ -1,0 +1,14 @@
+trying to reset  @ 2016-05-30_05-30-32
+unknown mote: id  @ 2016-05-30_05-30-33
+reset  DONE @ 2016-05-30_05-30-33
+trying to reset  @ 2016-05-30_05-50-32
+unknown mote: id  @ 2016-05-30_05-50-32
+reset  DONE @ 2016-05-30_05-50-32
+>=1 mote >= 1h down -> reboot PI @ 2016-05-30_06-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-30_06-29-02
+trying to reset  @ 2016-05-30_07-08-32
+unknown mote: id  @ 2016-05-30_07-08-33
+reset  DONE @ 2016-05-30_07-08-33
+trying to reset  @ 2016-05-30_07-28-32
+unknown mote: id  @ 2016-05-30_07-28-32
+reset  DONE @ 2016-05-30_07-28-33

@@ -1,0 +1,5 @@
+>2 motes down -> reset_all @ 2016-05-27_07-39-02
+reset_all DONE @ 2016-05-27_07-39-11
+>2 motes down -> reset_all @ 2016-05-27_07-59-03
+reset_all DONE @ 2016-05-27_07-59-11
+>=1 mote >= 1h down -> reboot PI @ 2016-05-27_08-19-02

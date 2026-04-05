@@ -1,0 +1,11 @@
+trying to reset 10 @ 2016-05-28_07-10-32
+reset 10 DONE @ 2016-05-28_07-10-35
+trying to reset 11 @ 2016-05-28_07-30-33
+reset 11 DONE @ 2016-05-28_07-30-35
+>2 motes down -> reset_all @ 2016-05-28_08-50-02
+reset_all DONE @ 2016-05-28_08-50-10
+trying to reset  @ 2016-05-28_13-50-33
+unknown mote: id  @ 2016-05-28_13-50-33
+reset  DONE @ 2016-05-28_13-50-33
+trying to reset 10 @ 2016-05-28_15-50-32
+reset 10 DONE @ 2016-05-28_15-50-35

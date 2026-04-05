@@ -1,0 +1,13 @@
+>2 motes down -> reset_all @ 2016-04-13_04-02-05
+reset_all FAILED @ 2016-04-13_04-02-20 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-13_04-42-05
+reset_all DONE @ 2016-04-13_04-42-18
+trying to reset 5 @ 2016-04-13_05-42-36
+reset 5 FAILED @ 2016-04-13_05-43-50 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-13_06-24-06
+reset_all FAILED @ 2016-04-13_06-24-20 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-13_07-24-05
+reset_all FAILED @ 2016-04-13_07-24-20 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-13_07-44-05
+reset_all DONE @ 2016-04-13_07-44-19
+>=1 mote >= 1h down -> reboot PI @ 2016-04-13_18-18-06

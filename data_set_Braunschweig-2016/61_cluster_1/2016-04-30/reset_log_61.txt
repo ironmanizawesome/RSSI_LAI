@@ -1,0 +1,29 @@
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-04-30_00-16-01
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_00-35-03
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_00-54-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_01-13-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_01-32-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_01-51-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_02-10-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_02-29-01
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_02-48-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_03-07-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_03-26-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_03-45-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_04-04-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_04-23-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_04-42-01
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_05-01-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_05-20-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_05-39-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-30_05-58-02
+trying to reset 1 @ 2016-04-30_07-17-34
+reset 1 FAILED @ 2016-04-30_07-17-36 -> reboot PI
+trying to reset 1 @ 2016-04-30_07-37-32
+reset 1 FAILED @ 2016-04-30_07-37-33 -> reboot PI
+trying to reset 1 @ 2016-04-30_08-37-33
+reset 1 FAILED @ 2016-04-30_08-37-35 -> reboot PI
+trying to reset 2 @ 2016-04-30_17-28-32
+reset 2 DONE @ 2016-04-30_17-28-36
+trying to reset 5 @ 2016-04-30_17-48-32
+reset 5 FAILED @ 2016-04-30_17-48-34 -> reboot PI

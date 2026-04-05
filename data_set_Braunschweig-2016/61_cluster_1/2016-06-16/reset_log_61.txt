@@ -1,0 +1,6 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-06-16_03-18-02
+trying to reset 2 @ 2016-06-16_08-58-33
+reset 2 DONE @ 2016-06-16_08-58-36
+>2 motes down -> reset_all @ 2016-06-16_09-18-02
+reset_all DONE @ 2016-06-16_09-18-11
+>=1 mote >= 1h down -> reboot PI @ 2016-06-16_09-38-01

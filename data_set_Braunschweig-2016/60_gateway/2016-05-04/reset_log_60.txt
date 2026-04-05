@@ -1,0 +1,19 @@
+trying to reset 9 @ 2016-05-04_07-59-32
+reset 9 DONE @ 2016-05-04_07-59-34
+trying to reset 9 @ 2016-05-04_10-59-32
+reset 9 DONE @ 2016-05-04_10-59-34
+trying to reset 9 @ 2016-05-04_14-39-31
+reset 9 DONE @ 2016-05-04_14-39-33
+trying to reset  @ 2016-05-04_19-41-32
+unknown mote: id  @ 2016-05-04_19-41-32
+reset  DONE @ 2016-05-04_19-41-32
+>=1 mote >= 1h down -> reboot PI @ 2016-05-04_20-21-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-04_20-41-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-04_21-01-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-04_21-21-02
+trying to reset  @ 2016-05-04_22-01-31
+unknown mote: id  @ 2016-05-04_22-01-32
+reset  DONE @ 2016-05-04_22-01-32
+trying to reset 9 @ 2016-05-04_22-21-31
+reset 9 DONE @ 2016-05-04_22-21-34
+>=1 mote >= 1h down -> reboot PI @ 2016-05-04_22-41-01

@@ -1,0 +1,2 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-05-19_03-20-01
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-05-19_03-40-01

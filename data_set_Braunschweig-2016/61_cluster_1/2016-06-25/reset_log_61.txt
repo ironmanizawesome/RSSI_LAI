@@ -1,0 +1,9 @@
+trying to reset  @ 2016-06-25_08-19-33
+unknown mote: id  @ 2016-06-25_08-19-33
+reset  DONE @ 2016-06-25_08-19-33
+trying to reset 1 @ 2016-06-25_09-59-33
+reset 1 FAILED @ 2016-06-25_09-59-34 -> reboot PI
+trying to reset 2 @ 2016-06-25_14-19-33
+reset 2 DONE @ 2016-06-25_14-19-37
+trying to reset 2 @ 2016-06-25_14-39-34
+reset 2 DONE @ 2016-06-25_14-39-37

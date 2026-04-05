@@ -1,0 +1,38 @@
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-06-15_03-20-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-06-15_03-40-01
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-06-15_04-00-01
+trying to reset 3 @ 2016-06-15_07-40-31
+reset 3 FAILED @ 2016-06-15_07-40-32 -> reboot PI
+>2 motes down -> reset_all @ 2016-06-15_08-00-01
+reset_all FAILED @ 2016-06-15_08-00-39 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_08-20-01
+trying to reset 3 @ 2016-06-15_10-40-31
+reset 3 FAILED @ 2016-06-15_10-40-32 -> reboot PI
+>2 motes down -> reset_all @ 2016-06-15_11-00-01
+reset_all FAILED @ 2016-06-15_11-00-38 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_11-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_11-39-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_11-59-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_12-19-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_12-39-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_12-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_13-19-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_13-39-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_13-59-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_14-18-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_14-38-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_14-57-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_15-16-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_15-35-01
+trying to reset 3 @ 2016-06-15_16-35-31
+reset 3 FAILED @ 2016-06-15_16-35-32 -> reboot PI
+>2 motes down -> reset_all @ 2016-06-15_16-55-01
+reset_all FAILED @ 2016-06-15_16-55-39 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_17-15-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_17-34-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_17-53-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_18-12-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_18-31-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_18-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_19-09-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-15_19-28-02

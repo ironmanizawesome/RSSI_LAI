@@ -1,0 +1,19 @@
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-05-04_00-08-02
+>2 motes down -> reset_all @ 2016-05-04_04-47-02
+reset_all DONE @ 2016-05-04_04-47-11
+>2 motes down -> reset_all @ 2016-05-04_05-07-02
+reset_all FAILED @ 2016-05-04_05-07-12 -> reboot PI
+trying to reset 2 @ 2016-05-04_06-07-34
+reset 2 DONE @ 2016-05-04_06-07-38
+>2 motes down -> reset_all @ 2016-05-04_08-27-03
+reset_all FAILED @ 2016-05-04_08-27-12 -> reboot PI
+trying to reset 6 @ 2016-05-04_10-47-33
+reset 6 DONE @ 2016-05-04_10-47-36
+trying to reset 1 @ 2016-05-04_11-07-32
+reset 1 FAILED @ 2016-05-04_11-07-34 -> reboot PI
+>2 motes down -> reset_all @ 2016-05-04_11-27-01
+reset_all FAILED @ 2016-05-04_11-27-11 -> reboot PI
+trying to reset 6 @ 2016-05-04_14-06-32
+reset 6 DONE @ 2016-05-04_14-06-36
+trying to reset 2 @ 2016-05-04_14-46-33
+reset 2 FAILED @ 2016-05-04_14-47-19 -> reboot PI

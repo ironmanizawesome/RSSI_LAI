@@ -1,0 +1,52 @@
+trying to reset 3 @ 2016-05-09_07-20-32
+reset 3 FAILED @ 2016-05-09_07-20-33 -> reboot PI
+>2 motes down -> reset_all @ 2016-05-09_07-40-01
+reset_all DONE @ 2016-05-09_07-40-08
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_08-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_08-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_08-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_09-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_09-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_09-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_10-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_10-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_10-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_11-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_11-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_11-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_12-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_12-20-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_12-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_13-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_13-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_13-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_14-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_14-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_14-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_15-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_15-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_15-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_16-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_16-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_16-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_17-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_17-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_17-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_18-07-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_18-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_18-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_19-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_19-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_19-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_20-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_20-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_20-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_21-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_21-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_21-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_22-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_22-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_22-47-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_23-07-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_23-27-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-09_23-47-02

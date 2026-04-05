@@ -1,0 +1,4 @@
+trying to reset 2 @ 2016-06-18_07-19-33
+reset 2 DONE @ 2016-06-18_07-19-36
+trying to reset 1 @ 2016-06-18_07-39-33
+reset 1 FAILED @ 2016-06-18_07-39-34 -> reboot PI

@@ -1,0 +1,9 @@
+trying to reset  @ 2016-04-20_07-39-35
+unknown mote: id  @ 2016-04-20_07-39-35
+reset  DONE @ 2016-04-20_07-39-35
+trying to reset 9 @ 2016-04-20_07-59-35
+reset 9 DONE @ 2016-04-20_07-59-37
+trying to reset 9 @ 2016-04-20_12-59-36
+reset 9 DONE @ 2016-04-20_12-59-39
+trying to reset 9 @ 2016-04-20_20-19-36
+reset 9 DONE @ 2016-04-20_20-19-39

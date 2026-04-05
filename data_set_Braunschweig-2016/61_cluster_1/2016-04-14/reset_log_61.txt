@@ -1,0 +1,38 @@
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-04-14_00-14-05
+>2 motes down -> reset_all @ 2016-04-14_03-38-06
+reset_all DONE @ 2016-04-14_03-38-19
+trying to reset 6 @ 2016-04-14_03-58-36
+reset 6 DONE @ 2016-04-14_03-59-31
+>2 motes down -> reset_all @ 2016-04-14_10-18-08
+reset_all FAILED @ 2016-04-14_10-18-44 -> reboot PI
+trying to reset 2 @ 2016-04-14_10-38-35
+reset 2 FAILED @ 2016-04-14_10-39-24 -> reboot PI
+trying to reset 1 @ 2016-04-14_11-19-35
+reset 1 FAILED @ 2016-04-14_11-20-24 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_12-00-05
+reset_all FAILED @ 2016-04-14_12-00-20 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_12-40-05
+reset_all FAILED @ 2016-04-14_12-40-21 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_13-20-05
+reset_all FAILED @ 2016-04-14_13-20-16 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_14-00-05
+reset_all FAILED @ 2016-04-14_14-00-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_15-00-05
+reset_all FAILED @ 2016-04-14_15-00-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_15-40-06
+reset_all FAILED @ 2016-04-14_15-40-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_16-20-05
+reset_all FAILED @ 2016-04-14_16-20-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_17-00-05
+reset_all FAILED @ 2016-04-14_17-00-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_17-40-05
+reset_all FAILED @ 2016-04-14_17-40-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_18-00-06
+reset_all FAILED @ 2016-04-14_18-00-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_18-40-05
+reset_all FAILED @ 2016-04-14_18-40-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-14_19-00-05
+reset_all FAILED @ 2016-04-14_19-00-17 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-04-14_19-20-05
+>2 motes down -> reset_all @ 2016-04-14_20-40-06
+reset_all DONE @ 2016-04-14_20-40-17

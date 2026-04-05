@@ -1,0 +1,12 @@
+trying to reset 10 @ 2016-05-10_07-50-32
+reset 10 DONE @ 2016-05-10_07-50-35
+trying to reset 11 @ 2016-05-10_08-10-32
+reset 11 DONE @ 2016-05-10_08-10-35
+trying to reset 10 @ 2016-05-10_09-30-32
+reset 10 DONE @ 2016-05-10_09-30-35
+trying to reset 11 @ 2016-05-10_11-50-32
+reset 11 DONE @ 2016-05-10_11-50-40
+trying to reset 11 @ 2016-05-10_20-50-32
+reset 11 DONE @ 2016-05-10_20-50-34
+trying to reset 10 @ 2016-05-10_22-10-32
+reset 10 DONE @ 2016-05-10_22-10-35

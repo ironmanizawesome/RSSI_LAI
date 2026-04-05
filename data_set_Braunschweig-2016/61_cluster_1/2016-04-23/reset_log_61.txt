@@ -1,0 +1,80 @@
+>2 motes down -> reset_all @ 2016-04-23_00-34-05
+reset_all FAILED @ 2016-04-23_00-34-12 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_01-14-05
+reset_all FAILED @ 2016-04-23_01-14-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_01-54-05
+reset_all FAILED @ 2016-04-23_01-54-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_02-14-05
+reset_all FAILED @ 2016-04-23_02-14-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_02-54-05
+reset_all FAILED @ 2016-04-23_02-54-12 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_03-34-05
+reset_all FAILED @ 2016-04-23_03-34-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_03-54-05
+reset_all FAILED @ 2016-04-23_03-54-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_04-34-05
+reset_all FAILED @ 2016-04-23_04-34-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_05-14-05
+reset_all FAILED @ 2016-04-23_05-14-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_06-14-05
+reset_all FAILED @ 2016-04-23_06-14-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_06-34-05
+reset_all FAILED @ 2016-04-23_06-34-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_07-14-05
+reset_all FAILED @ 2016-04-23_07-14-15 -> reboot PI
+trying to reset 1 @ 2016-04-23_07-34-35
+reset 1 FAILED @ 2016-04-23_07-34-36 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_07-54-05
+>2 motes down -> reset_all @ 2016-04-23_08-33-06
+reset_all FAILED @ 2016-04-23_08-33-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_08-53-05
+reset_all FAILED @ 2016-04-23_08-53-14 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_09-13-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_09-32-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_09-51-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_10-10-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_10-29-05
+>2 motes down -> reset_all @ 2016-04-23_11-08-05
+reset_all FAILED @ 2016-04-23_11-08-12 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_11-48-06
+reset_all FAILED @ 2016-04-23_11-48-15 -> reboot PI
+trying to reset 1 @ 2016-04-23_12-08-36
+reset 1 FAILED @ 2016-04-23_12-08-37 -> reboot PI
+trying to reset 2 @ 2016-04-23_12-28-35
+reset 2 FAILED @ 2016-04-23_12-28-36 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_13-08-05
+reset_all FAILED @ 2016-04-23_13-08-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_13-28-06
+reset_all FAILED @ 2016-04-23_13-28-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_14-08-05
+reset_all FAILED @ 2016-04-23_14-08-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_15-08-06
+reset_all FAILED @ 2016-04-23_15-08-15 -> reboot PI
+trying to reset 2 @ 2016-04-23_15-48-35
+reset 2 FAILED @ 2016-04-23_15-48-36 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_16-48-05
+reset_all FAILED @ 2016-04-23_16-48-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_17-28-06
+reset_all DONE @ 2016-04-23_17-28-14
+>2 motes down -> reset_all @ 2016-04-23_17-48-06
+reset_all FAILED @ 2016-04-23_17-48-14 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_18-48-06
+reset_all FAILED @ 2016-04-23_18-48-16 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_19-28-05
+reset_all FAILED @ 2016-04-23_19-28-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_20-08-05
+reset_all FAILED @ 2016-04-23_20-08-15 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-23_20-28-05
+reset_all FAILED @ 2016-04-23_20-28-15 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_20-48-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_21-07-05
+>2 motes down -> reset_all @ 2016-04-23_21-26-05
+reset_all DONE @ 2016-04-23_21-26-15
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_21-46-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_22-05-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_22-24-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_22-43-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_23-02-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_23-21-06
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_23-40-05
+>=1 mote >= 1h down -> reboot PI @ 2016-04-23_23-59-05

@@ -1,0 +1,8 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_17-08-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_17-28-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_17-48-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_18-08-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_18-28-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_18-48-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_19-08-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-04-13_19-28-05

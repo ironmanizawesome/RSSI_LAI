@@ -1,0 +1,17 @@
+trying to reset 9 @ 2016-05-02_07-19-32
+reset 9 DONE @ 2016-05-02_07-19-34
+trying to reset 9 @ 2016-05-02_08-59-31
+reset 9 DONE @ 2016-05-02_08-59-33
+trying to reset 9 @ 2016-05-02_14-39-32
+reset 9 DONE @ 2016-05-02_14-39-34
+trying to reset 9 @ 2016-05-02_16-59-32
+reset 9 DONE @ 2016-05-02_16-59-34
+trying to reset 9 @ 2016-05-02_17-39-32
+reset 9 DONE @ 2016-05-02_17-39-34
+trying to reset 9 @ 2016-05-02_18-39-32
+reset 9 DONE @ 2016-05-02_18-39-34
+trying to reset  @ 2016-05-02_20-39-32
+unknown mote: id  @ 2016-05-02_20-39-32
+reset  DONE @ 2016-05-02_20-39-32
+trying to reset 9 @ 2016-05-02_20-59-32
+reset 9 DONE @ 2016-05-02_20-59-34

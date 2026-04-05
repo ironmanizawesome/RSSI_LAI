@@ -1,0 +1,30 @@
+>2 motes down -> reset_all @ 2016-05-21_08-40-01
+reset_all DONE @ 2016-05-21_08-40-09
+>2 motes down -> reset_all @ 2016-05-21_09-00-01
+reset_all DONE @ 2016-05-21_09-00-09
+trying to reset 3 @ 2016-05-21_11-40-31
+reset 3 FAILED @ 2016-05-21_11-40-32 -> reboot PI
+trying to reset 3 @ 2016-05-21_12-00-31
+reset 3 FAILED @ 2016-05-21_12-00-32 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_12-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_12-40-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_13-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_13-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_13-40-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_14-00-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_14-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_14-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_15-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_15-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_15-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_16-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_16-20-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_16-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_17-00-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_17-20-02
+trying to reset 3 @ 2016-05-21_18-20-31
+reset 3 FAILED @ 2016-05-21_18-20-32 -> reboot PI
+trying to reset 3478 @ 2016-05-21_18-40-32
+unknown mote: id 3478 @ 2016-05-21_18-40-32
+reset 3478 DONE @ 2016-05-21_18-40-32
+>=1 mote >= 1h down -> reboot PI @ 2016-05-21_19-00-01

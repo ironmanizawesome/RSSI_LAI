@@ -1,0 +1,33 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-05-24_14-20-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-05-24_14-40-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-05-24_15-00-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-05-24_15-20-02
+trying to reset  @ 2016-05-24_16-00-32
+unknown mote: id  @ 2016-05-24_16-00-32
+reset  DONE @ 2016-05-24_16-00-32
+trying to reset  @ 2016-05-24_16-40-32
+unknown mote: id  @ 2016-05-24_16-40-32
+reset  DONE @ 2016-05-24_16-40-32
+trying to reset  @ 2016-05-24_17-00-32
+unknown mote: id  @ 2016-05-24_17-00-32
+reset  DONE @ 2016-05-24_17-00-32
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_17-20-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_17-40-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_18-00-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_18-20-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_18-40-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_18-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_19-19-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_19-39-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_19-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_20-19-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_20-39-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_20-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_21-19-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_21-39-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_21-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_22-19-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_22-39-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_22-59-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_23-19-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-24_23-39-01

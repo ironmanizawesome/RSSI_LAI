@@ -1,0 +1,44 @@
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-04-16_00-14-05
+trying to reset 2 @ 2016-04-16_03-38-36
+reset 2 FAILED @ 2016-04-16_03-38-37 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_04-18-05
+reset_all FAILED @ 2016-04-16_04-18-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_04-58-05
+reset_all FAILED @ 2016-04-16_04-58-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_06-18-05
+reset_all FAILED @ 2016-04-16_06-18-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_06-58-05
+reset_all DONE @ 2016-04-16_06-58-16
+>2 motes down -> reset_all @ 2016-04-16_10-38-06
+reset_all FAILED @ 2016-04-16_10-38-35 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_11-18-05
+reset_all FAILED @ 2016-04-16_11-18-17 -> reboot PI
+trying to reset 1 @ 2016-04-16_11-38-36
+reset 1 DONE @ 2016-04-16_11-38-55
+>=1 mote >= 1h down -> reboot PI @ 2016-04-16_11-58-06
+>2 motes down -> reset_all @ 2016-04-16_12-58-05
+reset_all FAILED @ 2016-04-16_12-58-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_13-38-05
+reset_all FAILED @ 2016-04-16_13-38-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_13-58-05
+reset_all FAILED @ 2016-04-16_13-58-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_15-18-05
+reset_all FAILED @ 2016-04-16_15-18-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_15-58-05
+reset_all FAILED @ 2016-04-16_15-58-16 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_16-18-05
+reset_all FAILED @ 2016-04-16_16-18-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_17-18-05
+reset_all FAILED @ 2016-04-16_17-18-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_18-38-05
+reset_all DONE @ 2016-04-16_18-38-16
+>2 motes down -> reset_all @ 2016-04-16_18-58-05
+reset_all FAILED @ 2016-04-16_18-58-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_19-38-05
+reset_all DONE @ 2016-04-16_19-38-16
+trying to reset 6 @ 2016-04-16_19-58-36
+reset 6 FAILED @ 2016-04-16_19-59-50 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_20-40-06
+reset_all FAILED @ 2016-04-16_20-40-17 -> reboot PI
+>2 motes down -> reset_all @ 2016-04-16_21-40-05
+reset_all DONE @ 2016-04-16_21-40-16

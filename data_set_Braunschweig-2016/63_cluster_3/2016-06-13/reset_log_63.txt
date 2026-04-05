@@ -1,0 +1,52 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_03-29-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_03-49-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_04-09-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_04-29-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_04-49-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_05-09-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_05-29-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_05-49-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_06-09-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_06-29-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_06-49-02
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> trying to reset all motes @ 2016-06-13_07-09-02
+trying to reset  @ 2016-06-13_10-49-32
+unknown mote: id  @ 2016-06-13_10-49-33
+reset  DONE @ 2016-06-13_10-49-33
+trying to reset  @ 2016-06-13_11-09-32
+unknown mote: id  @ 2016-06-13_11-09-33
+reset  DONE @ 2016-06-13_11-09-33
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_11-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_11-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_12-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_12-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_12-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_13-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_13-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_13-49-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_14-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_14-29-01
+trying to reset  @ 2016-06-13_16-49-32
+unknown mote: id  @ 2016-06-13_16-49-32
+reset  DONE @ 2016-06-13_16-49-32
+trying to reset  @ 2016-06-13_17-09-32
+unknown mote: id  @ 2016-06-13_17-09-32
+reset  DONE @ 2016-06-13_17-09-32
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_17-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_17-49-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_18-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_18-29-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_18-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_19-09-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_19-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_19-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_20-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_20-29-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_20-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_21-09-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_21-29-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_21-49-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-13_22-09-01
+trying to reset  @ 2016-06-13_22-49-32
+unknown mote: id  @ 2016-06-13_22-49-32
+reset  DONE @ 2016-06-13_22-49-32

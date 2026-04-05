@@ -1,0 +1,13 @@
+trying to reset 8 @ 2016-05-06_07-20-31
+reset 8 FAILED @ 2016-05-06_07-21-04 -> reboot PI
+>2 motes down -> reset_all @ 2016-05-06_07-41-02
+reset_all DONE @ 2016-05-06_07-41-09
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_08-01-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_08-21-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_08-41-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_09-01-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_09-21-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_09-41-02
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_10-01-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_10-21-01
+>=1 mote >= 1h down -> reboot PI @ 2016-05-06_10-41-01

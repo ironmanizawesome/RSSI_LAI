@@ -1,0 +1,6 @@
+>2 motes down -> reset_all @ 2016-04-29_08-10-05
+reset_all FAILED @ 2016-04-29_08-10-14 -> reboot PI
+trying to reset 10 @ 2016-04-29_08-30-35
+reset 10 DONE @ 2016-04-29_08-30-38
+trying to reset 10 @ 2016-04-29_16-50-32
+reset 10 DONE @ 2016-04-29_16-50-34

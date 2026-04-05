@@ -1,0 +1,22 @@
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-04-25_00-03-05
+Check_motes ERR: data still incomplete (0 sensor_n.dat available) -> reboot PI @ 2016-04-25_00-22-06
+Check_motes ERR: data still incomplete (1 sensor_n.dat available) -> reboot PI @ 2016-04-25_00-41-05
+Check_motes ERR: data still incomplete (1 sensor_n.dat available) -> reboot PI @ 2016-04-25_01-00-05
+Check_motes ERR: data still incomplete (1 sensor_n.dat available) -> reboot PI @ 2016-04-25_01-19-05
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_01-38-05
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_01-57-05
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_02-16-05
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_02-35-06
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_02-54-05
+Check_motes ERR: data still incomplete (2 sensor_n.dat available) -> reboot PI @ 2016-04-25_03-13-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_03-32-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_03-51-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_04-10-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_04-29-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_04-48-05
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_05-07-06
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-04-25_05-26-05
+trying to reset 6 @ 2016-04-25_05-45-36
+reset 6 DONE @ 2016-04-25_05-45-39
+>2 motes down -> reset_all @ 2016-04-25_06-05-02
+reset_all FAILED @ 2016-04-25_06-05-11 -> reboot PI

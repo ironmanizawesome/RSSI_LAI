@@ -1,0 +1,35 @@
+trying to reset  @ 2016-06-22_06-30-32
+unknown mote: id  @ 2016-06-22_06-30-32
+reset  DONE @ 2016-06-22_06-30-32
+trying to reset  @ 2016-06-22_07-10-32
+unknown mote: id  @ 2016-06-22_07-10-32
+reset  DONE @ 2016-06-22_07-10-32
+trying to reset 11 @ 2016-06-22_07-30-32
+reset 11 DONE @ 2016-06-22_07-30-35
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_07-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_08-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_08-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_08-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_09-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_09-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_09-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_10-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_10-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_10-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_11-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_11-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_11-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_12-10-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_12-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_12-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_13-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_13-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_13-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_14-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_14-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_14-50-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_15-10-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_15-30-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_15-50-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_16-10-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-22_16-30-01

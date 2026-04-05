@@ -1,0 +1,12 @@
+trying to reset 3 @ 2016-06-26_08-00-32
+reset 3 FAILED @ 2016-06-26_08-00-33 -> reboot PI
+trying to reset 3 @ 2016-06-26_08-40-31
+reset 3 FAILED @ 2016-06-26_08-40-32 -> reboot PI
+>2 motes down -> reset_all @ 2016-06-26_09-00-02
+reset_all FAILED @ 2016-06-26_09-00-38 -> reboot PI
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_09-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_09-40-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_10-00-02
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_10-20-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_10-40-01
+>=1 mote >= 1h down -> reboot PI @ 2016-06-26_11-00-01

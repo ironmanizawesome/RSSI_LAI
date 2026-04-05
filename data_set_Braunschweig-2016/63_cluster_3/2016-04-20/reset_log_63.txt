@@ -1,0 +1,6 @@
+>2 motes down -> reset_all @ 2016-04-20_08-30-06
+reset_all DONE @ 2016-04-20_08-30-14
+trying to reset 10 @ 2016-04-20_09-10-36
+reset 10 DONE @ 2016-04-20_09-10-38
+trying to reset 10 @ 2016-04-20_12-10-35
+reset 10 DONE @ 2016-04-20_12-10-38

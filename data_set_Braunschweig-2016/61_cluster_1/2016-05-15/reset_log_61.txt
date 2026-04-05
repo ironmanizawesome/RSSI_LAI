@@ -1,0 +1,1 @@
+Check_motes ERR: data still incomplete (3 sensor_n.dat available) -> reboot PI @ 2016-05-15_02-59-03

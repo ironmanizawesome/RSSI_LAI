@@ -1,0 +1,4 @@
+trying to reset 2 @ 2016-05-29_10-59-33
+reset 2 DONE @ 2016-05-29_10-59-36
+trying to reset 5 @ 2016-05-29_12-39-33
+reset 5 FAILED @ 2016-05-29_12-39-34 -> reboot PI

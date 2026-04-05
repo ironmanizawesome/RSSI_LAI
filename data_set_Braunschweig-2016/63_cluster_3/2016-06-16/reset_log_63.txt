@@ -1,0 +1,8 @@
+>2 motes down -> reset_all @ 2016-06-16_08-29-02
+reset_all DONE @ 2016-06-16_08-29-11
+trying to reset  @ 2016-06-16_19-49-32
+unknown mote: id  @ 2016-06-16_19-49-32
+reset  DONE @ 2016-06-16_19-49-32
+trying to reset  @ 2016-06-16_23-09-32
+unknown mote: id  @ 2016-06-16_23-09-33
+reset  DONE @ 2016-06-16_23-09-33
