@@ -1,27 +1,13 @@
 {
   "hooks": {
-    "PreToolUse": [
-      {
-        "matcher": "Bash",
-        "hooks": [
-          {
-            "type": "command",
-            "command": "python3 -c \"\nimport sys, json, re\ntry:\n    data = json.loads(sys.stdin.read())\n    cmd = data.get('tool_input', {}).get('command', '')\nexcept:\n    sys.exit(0)\n\nblocked = [\n    (r'rm\\s+-[rf]{1,2}\\s', 'rm -rf 계열 명령 차단'),\n    (r'data_set_Braunschweig-2016.*(rm|mv|chmod|>)', '원본 데이터셋 수정 차단'),\n]\nfor pattern, msg in blocked:\n    if re.search(pattern, cmd):\n        print(f'[HOOK BLOCKED] {msg}', file=sys.stderr)\n        sys.exit(1)\nsys.exit(0)\n\""
-          }
-        ]
-      }
-    ],
     "PostToolUse": [
       {
-        "matcher": "Write|Edit|MultiEdit",
+        "matcher": "Edit|Write",
         "hooks": [
           {
             "type": "command",
-            "command": "python3 -c \"\nimport sys, json, subprocess\ntry:\n    data = json.loads(sys.stdin.read())\n    fpath = data.get('tool_input', {}).get('file_path', '')\nexcept:\n    sys.exit(0)\nif fpath.endswith('.py'):\n    r = subprocess.run(['black', '--quiet', fpath], capture_output=True)\n    if r.returncode == 0:\n        print(f'[HOOK] black 완료: {fpath}')\nsys.exit(0)\n\""
-          },
-          {
-            "type": "command",
-            "command": "python3 -c \"\nimport sys, json, os\ntry:\n    data = json.loads(sys.stdin.read())\n    fpath = data.get('tool_input', {}).get('file_path', '')\nexcept:\n    sys.exit(0)\nif fpath.endswith('.csv') and 'data/' in fpath:\n    try:\n        rows = sum(1 for _ in open(fpath)) - 1\n        kb = os.path.getsize(fpath) / 1024\n        print(f'[HOOK] {fpath}: {rows:,}행 ({kb:.1f} KB)')\n    except: pass\nsys.exit(0)\n\""
+            "command": "f=$(jq -r '.tool_input.file_path // empty'); echo \"$f\" | grep -q '\\.py$' && black \"$f\" 2>/dev/null || true",
+            "statusMessage": "black 포맷 적용 중..."
           }
         ]
       }

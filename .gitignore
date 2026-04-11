@@ -1,0 +1,17 @@
+# 대용량 원시 데이터 (파싱 스크립트로 재생성 가능)
+v1/data/*_raw.csv
+v2/data/*_raw.csv
+
+# 재생성 가능한 중간 결과
+v1/data/rssi_daily.csv
+v2/data/env_daily.csv
+v2/data/features_merged.csv
+
+# 이미지 (시각화 스크립트로 재생성 가능)
+v1/figures/
+v2/figures/
+
+# Python
+__pycache__/
+*.pyc
+.env
